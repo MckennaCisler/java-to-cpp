@@ -1,0 +1,6 @@
+[submodule "checkers-java"]
+	path = checkers-java
+	url = https://github.com/MckennaCisler/checkers-java
+[submodule "checkers-cpp"]
+	path = checkers-cpp
+	url = https://github.com/MckennaCisler/checkers-cpp
